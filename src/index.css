@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "DMSans-Regular";
+  src: url(./fonts/DMSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-Bold";
+  src: url(./fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url(./fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: "DMSans-Light";
+  src: url(./fonts/DMSans-Light.ttf);
+}
+
+
+body {
+  min-width: 1024px;
+  width: 100wh;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #666666;
+  text-decoration: none;
+}
